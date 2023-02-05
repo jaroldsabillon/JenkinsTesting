@@ -76,7 +76,6 @@ public class FileTypeDetection {
             System.out.println(s);
         }
 
-        FileObj.main(new String[0], docxNames);
 
 
     }
