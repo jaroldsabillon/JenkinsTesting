@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 public class FileTypeDetection {
 
-    public final static String DIRECTORY = "./src/FileInput/";//absolute path to input
+    public final static String DIRECTORY = "./FileInput/";//absolute path to input
 
     public String getDirectory(){
         return DIRECTORY;
